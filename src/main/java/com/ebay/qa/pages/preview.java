@@ -116,7 +116,7 @@ public class preview extends TestBase {
 		streetaddr.sendKeys("mig11");
 		streetaddline2.sendKeys("kukatpally");
 		city.sendKeys("hyd");
-		state.sendKeys("telen");
+		state.sendKeys("telengana");
 		postal.sendKeys("000000");
 
 	}
